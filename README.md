@@ -1,7 +1,7 @@
 # HBnB 🏨
 
 HBnB is a comprehensive web application that combines various components such as database storage, a back-end API, and front-end interfacing, all designed to replicate some functionalities of AirBnB.
-Project to be done in teams of 2 people but for me it is different because my teammate is doing BEL
+Project to be done in teams of 2 people (Bienaimee Marie Reine and Geoffrey Tumwisigye)
 
 -----------
 
