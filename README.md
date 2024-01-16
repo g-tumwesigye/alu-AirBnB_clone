@@ -1,7 +1,7 @@
-# HBnB 🏨
+# AirBnB clone - The console Project! 🏨
 
-HBnB is a comprehensive web application that combines various components such as database storage, a back-end API, and front-end interfacing, all designed to replicate some functionalities of AirBnB.
-Project to be done in teams of 2 people (Bienaimee Marie Reine and Geoffrey Tumwisigye)
+Welcome to our "AirBnB clone - The console Project" This is a comprehensive web application that combines various components such as database storage, a back-end API, and front-end interfacing, all designed to replicate some functionalities of AirBnB.
+This Project was done by (Bienaimee Marie Reine and Geofrey Tumwesigye)
 
 -----------
 
@@ -9,18 +9,18 @@ Project to be done in teams of 2 people (Bienaimee Marie Reine and Geoffrey Tumw
 
 ### Description
 
-* Create your data model
+* Creating the  data model
 * Manage (create, update, destroy, etc) objects via a console / command interpreter
 * Store and persist objects to a file (JSON file)
 
-The first piece is to manipulate a powerful storage system. This storage engine will give us an abstraction between “My object” and “How they are stored and persisted”. This means: from your console code (the command interpreter itself) and from the front-end and RestAPI you will build later, you won’t have to pay attention (take care) of how your objects are stored.
+The first piece is to manipulate a powerful storage system. This storage engine will give us an abstraction between “My object” and “How they are stored and persisted”. This means from our console code (the command interpreter itself) and from the front-end and RestAPI that we will build later.
 
-This abstraction will also allow you to change the type of storage easily without updating all of your codebase.
+This abstraction will also allow us to change the type of storage easily without updating all of our codebase.
 
 The console will be a tool to validate this storage engine
 
 
-### Relevant Files And Directories
+### Files And Directories
 
 * `models:` directory will contain all classes used for the entire project. A class, called “model” in a OOP * project is the representation of an object/instance.
 * `tests:` directory will contain all unit tests.
@@ -85,4 +85,4 @@ $
 ---------------
 ## Author
 Bienaimee Marie Reine
-Tumwisigye Geoffrey
+Tumwesigye Geofrey
